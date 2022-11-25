@@ -1,0 +1,15 @@
+:root{
+
+    --app-color: #1890ff;
+    --border-color: #222;
+    --box-shadow-color: #444;
+    --app-bg-color: #111;
+    --menu-bg-color:  #191919;
+    --nav-bg-color:  #191919;
+    --nav-bg-color-shadow: #eee;
+    --bg-color-white: #191919;
+    --font-color-deep: #aaa;
+    --font-color-base: #666;
+    --font-color-shallow: #333;
+    --font-color-white: #fff;
+}
